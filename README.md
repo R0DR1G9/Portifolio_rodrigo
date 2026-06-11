@@ -2,6 +2,8 @@
 
 Site de portfólio pessoal em HTML5, CSS3 e JavaScript puro. Projeto 3 — Front-End, CESAR School (2026).
 
+🔗 **[Ver site ao vivo](https://r0dr1g9.github.io/Portifolio_rodrigo)**
+
 ## Estrutura
 
 ```
@@ -14,6 +16,12 @@ portfolio/
 └── README.md
 ```
 
+## Tecnologias utilizadas
+ 
+- **HTML5** — estrutura semântica com `<nav>`, `<header>`, `<section>`, `<article>`, `<blockquote>`, `<time>`, `<ol>`
+- **CSS3** — Flexbox, CSS Grid, Custom Properties, animações e design responsivo
+- **JavaScript** — menu mobile toggle e filtro de conquistas por categoria
+- **Google Fonts** — Bebas Neue (display) + Figtree (corpo)
 
 ## Como rodar
 
